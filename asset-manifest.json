@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Contact-Github-API/static/css/main.325f2e66.chunk.css",
+    "main.js": "/Contact-Github-API/static/js/main.e3f11c90.chunk.js",
+    "main.js.map": "/Contact-Github-API/static/js/main.e3f11c90.chunk.js.map",
+    "runtime-main.js": "/Contact-Github-API/static/js/runtime-main.c0960eec.js",
+    "runtime-main.js.map": "/Contact-Github-API/static/js/runtime-main.c0960eec.js.map",
+    "static/js/2.ce16f9ef.chunk.js": "/Contact-Github-API/static/js/2.ce16f9ef.chunk.js",
+    "static/js/2.ce16f9ef.chunk.js.map": "/Contact-Github-API/static/js/2.ce16f9ef.chunk.js.map",
+    "index.html": "/Contact-Github-API/index.html",
+    "precache-manifest.583a3c7456bca3420938b1bbba25fb3f.js": "/Contact-Github-API/precache-manifest.583a3c7456bca3420938b1bbba25fb3f.js",
+    "service-worker.js": "/Contact-Github-API/service-worker.js",
+    "static/css/main.325f2e66.chunk.css.map": "/Contact-Github-API/static/css/main.325f2e66.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0960eec.js",
+    "static/js/2.ce16f9ef.chunk.js",
+    "static/css/main.325f2e66.chunk.css",
+    "static/js/main.e3f11c90.chunk.js"
+  ]
+}
