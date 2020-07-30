@@ -1,0 +1,44 @@
+.title-area {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    @media (max-width: 520px){
+        flex-direction: column;
+    }
+}
+
+.data-title {
+    @media (min-width: 481px){
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    @media (max-width: 480px){
+        font-size: 20px;
+        line-height: 24px;
+    }
+}
+
+.title-lg {
+	font-size: 32px;
+	display: inline-flex;
+
+	@media (max-width: 520px){
+		margin-bottom: 20px;
+	}
+}
+
+.repo-title {
+    font-size: 24px;
+    font-weight: normal;
+    color: #00557b;
+}
+
+.list-title {
+    font-size: 16px;
+    background: #fff;
+    color: #00557b;
+    padding: 15px;
+}

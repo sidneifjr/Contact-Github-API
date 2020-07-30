@@ -1,0 +1,35 @@
+.tags {
+    @media (min-width: 769px){
+        margin-left: 20px;
+    }
+
+    .tag {
+        &:not(:first-child){
+            margin-left: 10px;
+        }    
+    }
+}
+
+.tag {
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #fff;
+    border-radius: 15px;
+    padding: 3px 8px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.2s;
+
+    &.default {
+        background: #00557b;
+    }
+
+    &.purple {
+        background: #6161A9;
+    }
+
+    &:hover {
+        opacity: 1;
+    }
+}

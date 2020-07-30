@@ -1,0 +1,1 @@
+Após subir o vagrant e logar com o ssh, dar 'cd /vagrant' para entrar na pasta que 'engloba' o projeto e então 'cd app' para acessar a pasta do projeto em si.

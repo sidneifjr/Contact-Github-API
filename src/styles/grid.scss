@@ -1,0 +1,16 @@
+.wrapper {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.wrapper-md {
+	height: 100%;
+	max-width: 1200px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+
+	@media (max-width: 1220px){
+		padding: 0 20px;
+	}
+}

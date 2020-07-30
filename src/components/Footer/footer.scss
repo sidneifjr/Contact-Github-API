@@ -1,0 +1,26 @@
+#footer {
+	text-align: center;
+	margin-top: 60px;
+	display: inline-flex;
+	justify-content: space-between;
+	align-items: center;
+	flex: 1;
+
+	@media (min-width: 376px){
+		padding: 15px 25px;
+	}
+	
+	@media (max-width: 375px){
+		padding: 12px 25px;
+	}
+	
+	p {
+		flex-basis: 100%;
+		color: #fff;
+
+		@media (max-width: 560px){
+			font-size: 15px;
+			line-height: 23px;
+		}
+	}
+}

@@ -1,0 +1,27 @@
+#header {
+	padding: 12px 20px;
+	margin-bottom: 60px;
+
+	.logo {
+		img {
+			max-width: 90px;
+		}
+	}
+}
+
+.header-wrapper {
+	max-width: 1400px;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	@media (max-width: 610px){
+		flex-direction: column;
+	}
+}
+
+.header-search {
+	display: none;
+}
