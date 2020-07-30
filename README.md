@@ -2,7 +2,7 @@
 
 - npm install: get dependencies.
 - npm start: starts project.
-- yarn run deploy: builds and deploys to production.
+- npm run deploy/yarn run deploy: builds and deploys to production.
 
 Also, Vagrant isn't required.
 
